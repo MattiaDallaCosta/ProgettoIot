@@ -12,5 +12,5 @@ dev:
 	python3 init.py -d
 
 prod:
-	echo "creati sto production"
+	echo "not ready for prods"
 
