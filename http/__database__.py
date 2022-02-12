@@ -15,3 +15,4 @@ def insertData():
 if __name__ == '__main__':
     createDB()
     # insertData()
+    

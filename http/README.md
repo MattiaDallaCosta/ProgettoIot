@@ -15,20 +15,3 @@ make run
 ```bash
 
 ```
-
-
-## Run Server
-
-```bash
-export FLASK_APP=server
-flask run
-```
-for *development*:
-```bash
-export FLASK_ENV=development
-```
-
-For external visibility:
-```bash
-flask run --host=0.0.0.0
-```

@@ -60,3 +60,4 @@ api.add_resource(iotData, '/upload')
 @app.route("/")
 def index():
     return render_template("index.html"), 200
+    
